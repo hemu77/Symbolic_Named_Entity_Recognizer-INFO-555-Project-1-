@@ -1,7 +1,7 @@
 # Symbolic_Named_Entity_Recognizer-INFO-555-Project-1-
 ## Project Overview
 
-This project implements a **Symbolic NLP based Named Entity Recognition (NER)** system using rule-based methods. The system identifies and extracts entities like **Names, Dates, Locations**, and **Organizations** from the text using the **NLTK** and other Python libraries. It mainly focuses on how symbolic approaches impact the  NER process.
+This project implements a **Symbolic NLP based Named Entity Recognition (NER)** system using rule-based methods. The system identifies and extracts entities like **Names, Dates, Locations**, and **Organizations** from the text using the **NLTK** and other Python libraries. It mainly focuses on how symbolic approaches impact the  NER process. we took chunking and regex operations in the symbolic NLP and applied them in the code functions. The code is written beautifully with the proper markdowns and comments,so it's easier to read the code.   :)
 
 ## Features
 
