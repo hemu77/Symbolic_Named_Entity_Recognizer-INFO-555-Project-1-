@@ -20,3 +20,12 @@ This project implements a **Symbolic NLP based Named Entity Recognition (NER)** 
 
 ### To find the dataset externally:
 visit this link : [WikiANN Dataset](https://huggingface.co/datasets/unimelb-nlp/wikiann)
+
+## Results
+
+| Entity Type     | Precision | Recall | F1-Score |
+|------------------|-----------|--------|----------|
+| **Names**        | 0.91      | 0.85   | 0.88     |
+| **Dates**        | 1.00      | 0.80   | 0.89     |
+| **Locations**    | 1.00      | 0.90   | 0.95     |
+| **Organizations**| 1.00      | 0.75   | 0.86     |
