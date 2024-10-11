@@ -1,0 +1,6 @@
+regex
+nltk
+spacy
+datasets
+scikit-learn
+pandas
